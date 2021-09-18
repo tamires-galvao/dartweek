@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058402222971",
+    "project_id": "app-filmes-dart-week-tami",
+    "storage_bucket": "app-filmes-dart-week-tami.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058402222971:android:c02f884db635fa5bf3b3de",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058402222971-q7ts1pktjeejras60j3f5jjd8fp1r8sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiadoflutter.app_filmes",
+            "certificate_hash": "abc970e91e58439fae14e39aaca3d4873730ccd3"
+          }
+        },
+        {
+          "client_id": "1058402222971-8neep6l077t5rj673545mo1lndkdvk2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fgmALx2mo9RGtNjuYdohyVjVCDiQi3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058402222971-8neep6l077t5rj673545mo1lndkdvk2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
