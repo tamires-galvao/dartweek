@@ -6,6 +6,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:get/route_manager.dart';
 
+import 'application/bidings/application_bifings.dart';
+
 Future<void> main() async {
   //inicia o flutter antes de qualquer aplicação para evitar problema no firebase
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,6 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       title: 'Flutter Demo',
+      initialBinding: ApplicationBidings(),
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
